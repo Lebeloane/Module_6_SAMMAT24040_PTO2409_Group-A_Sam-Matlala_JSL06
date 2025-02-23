@@ -2,15 +2,18 @@
 const menu = {
     Starters: [
         {name: "Garlic Bread", price: 18} , 
-        {name: "Bruschetta", price: 43}
+        {name: "Bruschetta", price: 23},
+        {name: "Bacon Roll", price: 28}
     ],
     MainCourses: [
         {name: "Margherita Pizza", price: 146},
-        {name: "Spaghetti Carbonara", price: 72}
+        {name: "Spaghetti Carbonara", price: 72},
+        {name: "Lasagne", price: 85}
         ],
     Desserts: [
-        {name:"Tiramisu", price: 345},
-        {name: "Cheesecake", price: 265}
+        {name:"Tiramisu", price: 245},
+        {name: "Cheesecake", price: 165},
+        {name: "Malva Pudding", price: 89}
     ]
 };
 
